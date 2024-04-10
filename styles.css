@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ffdcec;
+}
+.navbar-brand img{
+    width: 50px;
+    height: 50px;
+
+}
+.navbar-brand span{
+   color: #FF5A5F
+}
+ul li:last-child{
+    font-weight: 400;
+}
+.me-6{
+    margin-right: 15rem;
+}
+.me-7{
+    margin-right: 22rem;
+}
+.first{
+    background-color: #F6EEFC;
+    height:25rem;
+}
+.intro{
+    padding-top:6rem;
+    padding-left: 8rem;
+}
+.intro p{
+width:25%;
+letter-spacing: 2px;
+}
+.intro p:nth-child(1){
+    font-size:2rem;
+    font-weight: 500;
+}
+.intro p:nth-child(2){
+
+    font-weight: 350;
+}
